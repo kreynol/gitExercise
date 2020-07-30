@@ -1,1 +1,1 @@
-newFeature1
+newFeature2
